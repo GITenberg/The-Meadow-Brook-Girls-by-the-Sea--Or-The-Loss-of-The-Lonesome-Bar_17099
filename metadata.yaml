@@ -1,0 +1,28 @@
+_repo: The-Meadow-Brook-Girls-by-the-Sea--Or-The-Loss-of-The-Lonesome-Bar_17099
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Aldridge, Janet
+    gutenberg_agent_id: '5139'
+    url: http://www.gutenberg.org/2009/agents/5139
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2005-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17099'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mystery and detective stories'
+- !lcsh 'Cuba -- Juvenile fiction'
+- !lcsh 'Smuggling -- Juvenile fiction'
+- !lcsh 'Sea stories'
+- !lcc 'PZ'
+title: The Meadow-Brook Girls by the Sea; Or, The Loss of The Lonesome Bar
+url: http://www.gutenberg.org/ebooks/17099
