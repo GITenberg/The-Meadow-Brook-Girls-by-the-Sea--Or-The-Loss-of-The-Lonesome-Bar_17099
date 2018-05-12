@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '5139'
     url: http://www.gutenberg.org/2009/agents/5139
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17099#The-Meadow-Brook-Girls-by-the-Sea--Or-The-Loss-of-The-Lonesome-Bar
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2005-11-18'
 gutenberg_type: Text
